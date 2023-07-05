@@ -1,0 +1,1 @@
+docker exec -it gazebo_ros bash
